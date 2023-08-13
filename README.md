@@ -17,5 +17,3 @@ Solidity, Hardhat, Truffle, JavaScript, TypeScript, React, Next.js, Node.js
 ### <img src="https://github.com/KatyaRyazantseva/KatyaRyazantseva/assets/47656938/0812da3b-22a9-427f-b707-595c7b5a6a9a"  width="30" > More about me
 My hobbies are music and dancing 💃🎵 
 I love to travel and to stay in beautiful locations 🌍 Nature, museums, sightseeings
-
-Contact me on <a href="https://twitter.com/Sib_Katya" rel="nofollow"> <img src="https://github.com/KatyaRyazantseva/KatyaRyazantseva/assets/47656938/fc6f3cc1-bc02-4c92-982b-4044a40ef977" alt="twitter" width="20" height="20"/></a> and <a href="https://www.linkedin.com/in/katya-ryazantseva/" rel="nofollow"> <img src="https://github.com/KatyaRyazantseva/KatyaRyazantseva/assets/47656938/dceb77e8-0b6b-4f48-8fa4-e482075e334b" alt="linkedin"  width="20" height="20"/></a>
