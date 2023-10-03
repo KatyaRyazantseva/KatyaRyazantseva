@@ -10,6 +10,7 @@ latest advancements and trends. You can meet me on blockchain conferences and ha
 - ETHBarcelona
 - ETHGlobal Paris
 - ETHGlobal Superhack
+- Encode Open Data Hack
 
 ### 🎓 My stack:
 Solidity, Hardhat, Truffle, JavaScript, TypeScript, React, Next.js, Node.js
