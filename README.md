@@ -6,7 +6,13 @@ My passion for blockchain technology drives me to stay updated with the
 latest advancements and trends. You can meet me on blockchain conferences and hacks.
 
 ### <img src="https://github.com/KatyaRyazantseva/KatyaRyazantseva/assets/47656938/c4cf1a8a-ee1a-48f0-892c-bf553c9651bb"  width="30" > Hackathons:
-Encode Gnosis Hackathon | ETHBarcelona | ETHGlobal Paris | ETHGlobal Superhack | Encode Open Data Hack | EthOnline | EthGlobal Istanbul
+- Encode Gnosis Hackathon
+- ETHBarcelona
+- ETHGlobal Paris
+- ETHGlobal Superhack
+- Encode Open Data Hack
+- EthOnline
+- EthGlobal Istanbul
 
 ### 🎓 My stack:
 Solidity, Hardhat, Truffle, JavaScript, TypeScript, React, Next.js, Node.js
