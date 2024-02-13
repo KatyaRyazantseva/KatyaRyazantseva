@@ -13,9 +13,10 @@ latest advancements and trends. You can meet me on blockchain conferences and ha
 - Encode Open Data Hack
 - EthOnline
 - EthGlobal Istanbul
+- EthGlobal Circuit Breaker
 
 ### 🎓 My stack:
-Solidity, Hardhat, Truffle, JavaScript, TypeScript, React, Next.js, Node.js
+Solidity, Hardhat, JavaScript, TypeScript, React, Next.js, Node.js
 
 ### <img src="https://github.com/KatyaRyazantseva/KatyaRyazantseva/assets/47656938/0812da3b-22a9-427f-b707-595c7b5a6a9a"  width="30" > More about me
 My hobbies are music and dancing 💃🎵 
